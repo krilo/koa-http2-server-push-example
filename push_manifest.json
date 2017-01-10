@@ -1,0 +1,14 @@
+{
+  "/app-shell.css": {
+    "type": "style",
+    "weight": 1
+  },
+  "/randomNumber.js": {
+    "type": "script",
+    "weight": 1
+  },
+  "/randomNumber.js": {
+    "type": "script",
+    "weight": 1
+  }
+}
